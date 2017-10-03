@@ -117,7 +117,7 @@ module outSidewall(length,height,thickness,leftSide) {
         translate([0,0,0.5*height])
             rotate([0,90,0]) 
                 cylinder(   d= 0.5 * height + 0.1, 
-                            h=thickness,
+                            h=thickness+0.05,
                             $fn=fragments);
 
         // half round cut for opening
@@ -126,12 +126,12 @@ module outSidewall(length,height,thickness,leftSide) {
                 if (leftSide) {
                     cylinder(   d1= height + thickness, 
                                 d2= height, 
-                                h=thickness,
+                                h=thickness * 1.05,  // for rounding problems a bit thicker
                                 $fn=fragments);
                 } else {
                     cylinder(   d1= height, 
                                 d2= height + thickness, 
-                                h=thickness,
+                                h=thickness * 1.05,  // for rounding problems a bit thicker
                                 $fn=fragments);
                 }
             }
