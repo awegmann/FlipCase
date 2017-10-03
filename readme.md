@@ -1,3 +1,7 @@
+# On Thingiverse
+
+You can find this design on Thingiverse: [Flip Case by an10nn - Thingiverse](https://www.thingiverse.com/thing:2565771)
+
 ## Intention
 
 I was looking for a box for playing cards (for Settlers of Catan), but didn't find what I was looking for. So I thought, this would be a good reason to lean OpenSCAD and make a customizable box.
@@ -19,3 +23,4 @@ The provided JSON file contains parameters for the boxes in the photos. Please k
 ## Issues
 
 If you create a very thin box (which means the hight of the box is less than 10mm), the half round cuts in the cover become very small. This leads to a cover that it's tricky to open. I think I will modify this in the next version.
+
