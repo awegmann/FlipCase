@@ -1,0 +1,35 @@
+{
+    "parameterSets": {
+        "Business cards": {
+            "GENERATE_BOX": "true",
+            "GENERATE_COVER": "true",
+            "fragments": "64",
+            "innerHeight": "6",
+            "innerLength": "57",
+            "innerWidth": "88",
+            "pocketCount": "1",
+            "wallThickness": "1.5"
+        },
+        "Settlers of Catan": {
+            "GENERATE_BOX": "true",
+            "GENERATE_COVER": "true",
+            "fragments": "64",
+            "innerHeight": "9",
+            "innerLength": "71",
+            "innerWidth": "46",
+            "pocketCount": "5",
+            "wallThickness": "1.5"
+        },
+        "SD-Card Mini Box": {
+            "GENERATE_BOX": "true",
+            "GENERATE_COVER": "true",
+            "fragments": "32",
+            "innerHeight": "9",
+            "innerLength": "34",
+            "innerWidth": "25",
+            "pocketCount": "1",
+            "wallThickness": "1.5"
+        }
+    },
+    "fileFormatVersion": "1"
+}
