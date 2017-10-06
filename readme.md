@@ -24,3 +24,13 @@ The provided JSON file contains parameters for the boxes in the photos. Please k
 
 If you create a very thin box (which means the hight of the box is less than 10mm), the half round cuts in the cover become very small. This leads to a cover that it's tricky to open. I think I will modify this in the next version.
 
+## Versions
+
+- V 1.0: 
+	first version published on Thingiverse.
+- V 1.1: 
+	enlarged cut outs and holes in cover for better preview. (Thanks to [DigitalMonk](https://www.thingiverse.com/DigitalMonk/about) for the suggestion).
+	
+## Source on GitHub
+
+You can find the source code on GitHub: [GitHub - awegmann/FlipCase: A customizable box made with OpenSCAD](https://github.com/awegmann/FlipCase)
