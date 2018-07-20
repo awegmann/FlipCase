@@ -16,7 +16,7 @@ The wall width can also be modified, but the default of 1.5mm is a good value fo
  
 ## Examples
 
-The pictures show my example prints. The black, small one was the first prototype for SD cards. The white one is an business card box. The red one is a single card box for cards of "Settlers of Catan".  
+The pictures show my example prints. The black, small one was the first prototype for SD cards. The white one is a business card box. The red one is a single card box for cards of "Settlers of Catan".  
 
 The provided JSON file contains parameters for the boxes in the photos. Please keep in mind, that the business card box are for german business cards. You may use other dimensions in other countries.
 
